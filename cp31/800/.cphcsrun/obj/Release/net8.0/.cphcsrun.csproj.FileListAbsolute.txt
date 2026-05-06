@@ -1,0 +1,4 @@
+c:\Users\LAPTOP WORLD\Desktop\cp31\800\.cphcsrun\obj\Release\net8.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LAPTOP WORLD\Desktop\cp31\800\.cphcsrun\obj\Release\net8.0\.cphcsrun.AssemblyInfoInputs.cache
+c:\Users\LAPTOP WORLD\Desktop\cp31\800\.cphcsrun\obj\Release\net8.0\.cphcsrun.AssemblyInfo.cs
+c:\Users\LAPTOP WORLD\Desktop\cp31\800\.cphcsrun\obj\Release\net8.0\.cphcsrun.csproj.CoreCompileInputs.cache
